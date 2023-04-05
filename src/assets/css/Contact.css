@@ -1,0 +1,14 @@
+.contact {
+    min-width: 100wh;
+    min-height: 85vh;
+    background-color: #001220;
+    color: white;
+}
+
+.contact-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 70vh;
+}

@@ -1,0 +1,28 @@
+.nav-color {
+    background-color: black !important;
+
+}
+
+.nav-link {
+    font-size: 18px !important;
+    color: white !important;
+}
+
+.nav-link:hover {
+    transition-delay: 0.1s;
+    color: black !important;
+    border: 1px silid dark !important;
+    border-radius: 5px !important;
+    background-color: #fffbe6 !important;
+}
+
+.navbar-toggler {
+    background-color: #e6f4ff !important;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid rgb(218, 75, 75);
+}

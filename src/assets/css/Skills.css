@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.skills-section {
+    color: white;
+    font-family: sans-serif;
+    min-height: 90vh;
+    background-color: #001220;
+}
+
+.banner-text {
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 400;
+
+}
+
+.skillsAll {
+    padding-top: 100px;
+    margin: 10px;
+}
