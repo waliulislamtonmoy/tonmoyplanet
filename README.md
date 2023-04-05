@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Make a Personal Portfolio Using html-5 css-3 bootstrap-5.3 ,JavaScript and React.
+<<<<<<< go to website :  https://642d42679a772207bfbdfb99--thunderous-paletas-7902ef.netlify.app/
+I Make a Personal Portfolio Using html-5 css-3 bootstrap-5.3 ,JavaScript and React.
 =======
 # Getting Started with Create React App
 
