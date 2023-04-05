@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# react-complete-portfolio
 Make a Personal Portfolio Using html-5 css-3 bootstrap-5.3 ,JavaScript and React.
 =======
 # Getting Started with Create React App
